@@ -52,6 +52,7 @@ Updated Output Layer Biases:
 [0.5990, 0.5990]
 ```
 
+
 ## Contact
 If you have any questions or need further assistance, feel free to reach out!
 
