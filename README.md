@@ -33,8 +33,9 @@ To execute the neural network and observe the output:
 ```bash
 python nn_backprop.py
 ```
-
 The output will display the loss before and after weight updates, along with the updated weights and biases.
+
+### OR just use Google Colab.
 
 ## Example Output
 ```
